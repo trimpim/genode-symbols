@@ -11006,6 +11006,7 @@ _ZTI10QTabWidget V
 _ZTI10QTableView V
 _ZTI11QMainWindow V
 _ZTI11QPushButton V
+_ZTI11QToolButton V
 _ZTI12QApplication V
 _ZTI12QProgressBar V
 _ZTI12QUndoCommand V
